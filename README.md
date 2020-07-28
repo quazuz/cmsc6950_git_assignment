@@ -1,4 +1,4 @@
-# CMSC6950 - Assignment 3 for {your full name}
+# CMSC6950 - Assignment 3 for {Abdulqudus Olayinka Awesu}
 
 Git is a distributed Version Control System (VCS) that was created by
 Linus Torvalds, the creator of the Linux kernel.
